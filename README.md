@@ -56,14 +56,8 @@ Make sure to update the `pdf_path` in the code to point to your document (e.g., 
 
 **Question:** *"What continent is Egypt located in?"* **Context:** *"...Egypt is a transcontinental country spanning the northeast corner of Africa and the southwest corner of Asia..."* **Output:** *"Egypt is primarily located in the northeast corner of Africa."*
 
-## 🤝 Contributing
 
-Feel free to fork this project, open issues, or submit pull requests to improve the retrieval logic or UI!
 
----
-
-### نصيحة أخيرة:
-
-لو حابب تخلي المشروع "جامد" فعلاً، ضيف فولدر اسمه `assets` وحط فيه سكرين شوت من الـ Output بتاع الكود في Colab، وضيف لينك السكرين شوت في الـ README.
+-.
 
 هل محتاج مساعدة في رفع الكود لـ GitHub باستخدام الـ **Git Commands**؟
